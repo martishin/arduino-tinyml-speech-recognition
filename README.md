@@ -23,7 +23,7 @@ set of LEDs, which are used to indicate that a word has been recognized.
 
 ## Running Locally
 
-This project uses [PlatformIO](https://docs.platformio.org/en/latest/), you can load it in any IDE that supports it, for example [Visual Studio Code](https://code.visualstudio.com/) or [Clion](https://www.jetbrains.com/clion/).
+This project uses [PlatformIO](https://docs.platformio.org/en/latest/), you can load it in any IDE that supports it, for example [Visual Studio Code](https://code.visualstudio.com/) or [Clion](https://www.jetbrains.com/clion/).  
 You can also use [Arduino IDE](https://www.arduino.cc/en/software).
 
 Use the IDE to build and upload the example. Once it is running, you should see the built-in LED on your device flashing. 

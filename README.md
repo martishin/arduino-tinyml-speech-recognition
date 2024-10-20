@@ -1,6 +1,6 @@
 # Arduino TinyML Speech Recognition
 
-This example shows how to run a 20 kB ML model that can recognize 2 keywords,
+This example shows how to run a 20 kB machine learning model that can recognize 2 keywords,
 "yes" and "no", from speech data.
 
 The application listens to its surroundings with a microphone and indicates
